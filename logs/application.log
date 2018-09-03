@@ -1,0 +1,16 @@
+{ message: 'asdfads',
+  level: 'info',
+  timestamp: '2018-09-03T17:23:57.539Z',
+  [Symbol(level)]: 'info' }
+{ message: 'asdfads',
+  level: 'info',
+  timestamp: '2018-09-03T17:33:04.813Z',
+  [Symbol(level)]: 'info' }
+{ message: 'asdfads',
+  level: 'info',
+  timestamp: '2018-09-03T17:33:48.820Z',
+  [Symbol(level)]: 'info' }
+{ message: 'asdfads',
+  level: 'info',
+  timestamp: '2018-09-03T17:34:22.327Z',
+  [Symbol(level)]: 'info' }
